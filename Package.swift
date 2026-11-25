@@ -13,7 +13,7 @@ let package = Package(
         .library(
             name: "zy_lib_regula_ocr_ios_spm_banbif",
             targets: [
-                "zy_lib_regula_ocr_ios_spm_banbif_wrapper"
+                "ZyRegulaOcrBanbifWrapper"
             ]
         )
     ],
