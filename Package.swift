@@ -36,8 +36,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "zy_lib_regula_ocr_ios_spm",
-            url: "https://repo.zytrust.com/artifactory/zy-mobile-maven/spm/banbif/ocr/1.0.0/zy_lib_regula_ocr_ios_spm_banbif.xcframework.zip",
-            checksum: "40b06c1d1b1d31cce343c6786d2d21c123b298801cd3b6033c9cf0f7fe415914"
+            url: "https://repo.zytrust.com/artifactory/zy-mobile-maven/spm/banbif/ocr/1.0.2/zy_lib_regula_ocr_ios_spm_banbif.xcframework.zip",
+            checksum: "23c1579e880001e2822423e81ab06de6d3490b0af4e584058b2ea85b9048099b"
         ),
         .target(
             name: "ZyRegulaOcrBanbifWrapper",
